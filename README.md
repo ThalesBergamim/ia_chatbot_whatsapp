@@ -1,5 +1,8 @@
 # IA Chatbot para WhatsApp
 
+![badge](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+[![license](https://img.shields.io/github/license/ThalesBergamim/projeto_concessionaria.svg)](LICENSE)
+
 ## Descrição
 Este projeto é um chatbot para atendimento via WhatsApp, utilizando Inteligência Artificial e a técnica RAG (Retrieval-Augmented Generation) para fornecer respostas mais precisas e contextuais. O sistema é desenvolvido com Flask e utiliza a API da Waha para integrar-se ao WhatsApp.
 
@@ -22,6 +25,6 @@ O chatbot pode ser utilizado para diversas finalidades, como:
 
 
 ## Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
